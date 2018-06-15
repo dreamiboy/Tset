@@ -1,0 +1,13 @@
+TreeLink [data=53, height=2, 
+	left=TreeLink [data=51, height=1, 
+		left=TreeLink [data=50, height=0, 
+			left=null, 
+			right=null], 
+		right=TreeLink [data=52, height=0, 
+			left=null, 
+			right=null]], 
+	right=TreeLink [data=54, height=1, 
+		left=null, 
+		right=TreeLink [data=56, height=0, 
+			left=null, 
+			right=null]]]
